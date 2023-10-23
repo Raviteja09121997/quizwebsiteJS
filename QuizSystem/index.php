@@ -57,16 +57,16 @@
             <!-- The slideshow -->
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img src="IMG/bg2.jpg" class="d-block img-fluid" >
+                    <center><img src="IMG/bg2.jpg" class="d-block img-fluid" >
                 </div>
                 <div class="carousel-item">
-                    <img src="IMG/bg3.jpg" class="d-block img-fluid">
+                    <center><img src="IMG/bg3.jpg" class="d-block img-fluid">
                 </div>
                 <div class="carousel-item">
-                    <img src="IMG/bg1.jpg" class="d-block img-fluid">
+                    <center><img src="IMG/bg1.jpg" class="d-block img-fluid">
                 </div>
                 <div class="carousel-item">
-                    <img src="IMG/bg4.jpg" class="d-block img-fluid">
+                    <center><img src="IMG/bg4.jpg" class="d-block img-fluid">
                 </div>
             </div>
             <!-- Left and right controls -->
